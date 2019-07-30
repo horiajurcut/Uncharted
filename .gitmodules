@@ -1,0 +1,3 @@
+[submodule "Uncharted/vendor/spdlog"]
+	path = Uncharted/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
