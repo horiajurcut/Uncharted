@@ -4,6 +4,9 @@
     <Filter Include="Uncharted">
       <UniqueIdentifier>{A34F31E2-0FBA-E558-58F8-96FEC4A1C3AD}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Uncharted\Events">
+      <UniqueIdentifier>{27A622EB-139F-413D-3CD1-26C228292149}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Uncharted.h" />
@@ -15,6 +18,18 @@
     </ClInclude>
     <ClInclude Include="src\Uncharted\EntryPoint.h">
       <Filter>Uncharted</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Uncharted\Events\ApplicationEvent.h">
+      <Filter>Uncharted\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Uncharted\Events\Event.h">
+      <Filter>Uncharted\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Uncharted\Events\KeyEvent.h">
+      <Filter>Uncharted\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Uncharted\Events\MouseEvent.h">
+      <Filter>Uncharted\Events</Filter>
     </ClInclude>
     <ClInclude Include="src\Uncharted\Log.h">
       <Filter>Uncharted</Filter>

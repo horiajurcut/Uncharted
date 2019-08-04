@@ -2,7 +2,8 @@
 
 #include "Core.h"
 
-namespace Uncharted {
+namespace Uncharted
+{
 
 	class UNCHARTED_API Application
 	{

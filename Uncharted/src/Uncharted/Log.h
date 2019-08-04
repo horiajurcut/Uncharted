@@ -6,7 +6,8 @@
 #include "spdlog/spdlog.h"
 #include "spdlog/fmt/ostr.h"
 
-namespace Uncharted {
+namespace Uncharted
+{
 
 	class UNCHARTED_API Log
 	{

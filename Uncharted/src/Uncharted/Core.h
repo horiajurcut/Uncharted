@@ -10,3 +10,4 @@
 	#error Uncharted Engine only supports Windows
 #endif // UNCHARTED_PLATFORM_WINDOWS
 
+#define BIT(x) (1 << x)

@@ -1,7 +1,8 @@
 #include "Application.h"
 
 
-namespace Uncharted {
+namespace Uncharted
+{
 
 	Application::Application()
 	{
